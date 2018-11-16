@@ -49,27 +49,12 @@ No additional files for this lab.
 
 GIFs created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-For Attack 1:
-
-  No challenges.
-  
-  
-For Attack 2:
-
-  No challenges.
-  
-  
-For Attack 3:
-
-  No challenges
   
  
 
 ## License
 
-    Copyright [2018] [Vitaliy Kril]
+    Copyright [2018] [Ankit Shrestha]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
